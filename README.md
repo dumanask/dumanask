@@ -20,3 +20,5 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg" alt="unity" width="40" height="40"/> </a>
 <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer"> <img src="https://cdn2.unrealengine.com/ue-logo-1400x788-1400x788-8f185e1e3635.jpg" alt="unrealengine" width="40" height="40"/> </a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dumanask&show_icons=true&locale=en&layout=compact" alt="dumanask" /></p>
